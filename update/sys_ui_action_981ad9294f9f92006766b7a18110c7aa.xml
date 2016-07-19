@@ -23,12 +23,12 @@
         <order>100</order>
         <script><![CDATA[(function executeUIAction(current, previous) {
 
-var cost = 0;
+//var cost = 0;
 var budget = current.budget;
 var mrkevent = current.sys_id;
 var evtname = current.name;
 //Get the total cost of all equipment for this event
-		
+/*		
 var equipment = new GlideRecord('x_48036_marketing_equipment_request');
 equipment.addQuery('marketing_event', mrkevent);
 equipment.query();
@@ -36,8 +36,11 @@ equipment.query();
 while(equipment.next()){
 	cost = cost + equipment.cost;
 }
-//Display cost and budget error
-gs.addInfoMessage('The total cost of ' + evtname + ' is $' + parseFloat(cost).toFixed(2)  + '. You have $' + parseFloat(budget-cost).toFixed(2)+' remaining for '+ evtname);
+*/
+	var equipment = new totalCost(mrkevent);
+	var cost = equipment.getCost();
+	
+gs.addInfoMessage('The TOTAL cost of ' + evtname + ' is $' + parseFloat(cost).toFixed(2)  + '. You have $' + parseFloat(budget-cost).toFixed(2)+' remaining for '+ evtname);
 if(cost > budget){
 	gs.addErrorMessage('Equipment costs for ' + evtname + ' exceed the event budget.');
 }
@@ -55,7 +58,7 @@ action.setRedirectURL(current);
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>981ad9294f9f92006766b7a18110c7aa</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_name>Calculate event cost</sys_name>
         <sys_overrides/>
         <sys_package display_value="Marketing Events Application" source="x_48036_marketing">c1edb5514f4312006766b7a18110c769</sys_package>
@@ -64,7 +67,7 @@ action.setRedirectURL(current);
         <sys_scope display_value="Marketing Events Application">c1edb5514f4312006766b7a18110c769</sys_scope>
         <sys_update_name>sys_ui_action_981ad9294f9f92006766b7a18110c7aa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-07-18 23:39:33</sys_updated_on>
+        <sys_updated_on>2016-07-19 06:07:51</sys_updated_on>
         <table>x_48036_marketing_marketing_event</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
