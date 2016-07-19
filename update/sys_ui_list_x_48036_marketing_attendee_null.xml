@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_48036_marketing_attendee" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>email</element>
+            <list_id display_value="x_48036_marketing_attendee" element="NULL" name="x_48036_marketing_attendee" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9079e984feb16006766b7a18110c7c0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-18 18:58:27</sys_created_on>
+            <sys_id>ad079e984feb16006766b7a18110c7c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-18 18:58:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>first_name</element>
+            <list_id display_value="x_48036_marketing_attendee" element="NULL" name="x_48036_marketing_attendee" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9079e984feb16006766b7a18110c7c0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-18 18:58:27</sys_created_on>
+            <sys_id>ed079e984feb16006766b7a18110c7c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-18 18:58:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_name</element>
+            <list_id display_value="x_48036_marketing_attendee" element="NULL" name="x_48036_marketing_attendee" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9079e984feb16006766b7a18110c7c0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-18 18:58:27</sys_created_on>
+            <sys_id>21079e984feb16006766b7a18110c7c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-18 18:58:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>marketing_event</element>
+            <list_id display_value="x_48036_marketing_attendee" element="NULL" name="x_48036_marketing_attendee" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9079e984feb16006766b7a18110c7c0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-18 18:58:27</sys_created_on>
+            <sys_id>61079e984feb16006766b7a18110c7c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-18 18:58:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>phone</element>
+            <list_id display_value="x_48036_marketing_attendee" element="NULL" name="x_48036_marketing_attendee" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9079e984feb16006766b7a18110c7c0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-18 18:58:27</sys_created_on>
+            <sys_id>a1079e984feb16006766b7a18110c7c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-18 18:58:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_tags</element>
+            <list_id display_value="x_48036_marketing_attendee" element="NULL" name="x_48036_marketing_attendee" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9079e984feb16006766b7a18110c7c0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-18 18:58:27</sys_created_on>
+            <sys_id>e1079e984feb16006766b7a18110c7c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-18 18:58:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_48036_marketing_attendee" element="NULL" name="x_48036_marketing_attendee" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9079e984feb16006766b7a18110c7c0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-18 18:58:27</sys_created_on>
+            <sys_id>25079e984feb16006766b7a18110c7c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-18 18:58:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_48036_marketing_attendee</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-18 18:58:27</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9079e984feb16006766b7a18110c7c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_48036_marketing_attendee</sys_name>
+            <sys_package display_value="Marketing Events Application" source="x_48036_marketing">c1edb5514f4312006766b7a18110c769</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">c1edb5514f4312006766b7a18110c769</sys_scope>
+            <sys_update_name>sys_ui_list_x_48036_marketing_attendee_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-18 18:58:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request Marketing Event">e9a1c3514fc312006766b7a18110c725</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-27 04:09:23</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e522c7dd4f8312006766b7a18110c7b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Request Marketing Event</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_48036_marketing">c1edb5514f4312006766b7a18110c769</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">c1edb5514f4312006766b7a18110c769</sys_scope>
+        <sys_update_name>sc_cat_item_category_e522c7dd4f8312006766b7a18110c7b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-27 04:09:23</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

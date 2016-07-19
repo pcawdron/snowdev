@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_48036_marketing_attendee</collection>
+        <message/>
+        <message_html><![CDATA[<p><span>Dear ${first_name},</span></p>
+<p><span>&nbsp;</span></p>
+<p><span>Thank you for registering for ${marketing_event.name} on ${marketing_event.start_date}. We hope you enjoy the conference.&nbsp;<br /><br /></span></p>
+<p>Regards,</p>
+<p>Us</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Marketing Event Registration</name>
+        <sms_alternate/>
+        <subject>Thank you for registering for ${marketing_event.name}</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-27 04:01:41</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>efaf3e114fc312006766b7a18110c74c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Event Registration</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_48036_marketing">c1edb5514f4312006766b7a18110c769</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">c1edb5514f4312006766b7a18110c769</sys_scope>
+        <sys_update_name>sysevent_email_template_efaf3e114fc312006766b7a18110c74c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-27 04:01:41</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

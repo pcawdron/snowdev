@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request Marketing Event">e9a1c3514fc312006766b7a18110c725</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-27 04:09:23</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>dd22c7dd4f8312006766b7a18110c7b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request Marketing Event</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_48036_marketing">c1edb5514f4312006766b7a18110c769</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">c1edb5514f4312006766b7a18110c769</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_dd22c7dd4f8312006766b7a18110c7b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-27 04:09:23</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
